@@ -1,2 +1,2 @@
-# sales-data-analysis
+# sales data analysis
 Sales Data Analysis using Microsoft Excel
